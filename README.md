@@ -7,8 +7,7 @@
 2. pip를 이용하여 라이브러리 설치
     - **명령 프롬프트** 실행
     ``` sh 
-    pip install 
-    PyQt5
+    pip install PyQt5
     ```
 3. main.py를 실행
     - **명령 프롬프트** 실행
